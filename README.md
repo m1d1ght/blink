@@ -1,3 +1,3 @@
 # Blink
+Павел Мусиенко
 
-Пример для Arduino board.
